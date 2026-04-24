@@ -1,1 +1,0 @@
-print("transform data after extract data in python")
